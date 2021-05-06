@@ -63,7 +63,7 @@ facebook-sdk==2.0.0
 fastcache==1.0.2
 filelock==2.0.12
 Flask==0.12.2
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-Login==0.3.2
 Flask-SQLAlchemy==2.3.2
 Flask-Stormpath==0.4.8
